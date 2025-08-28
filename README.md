@@ -1,1 +1,3 @@
-# mobile16
+# mobile 16
+Eu desenvolvi o site utilizando três linguagens principais: HTML, CSS e JavaScript. O HTML foi responsável por criar a parte base da página, organizando os elementos necessários em seções, onde foram inseridos textos e links de navegação. O CSS foi utilizado para aplicar estilo e identidade visual, definindo cores, fontes, espaçamentos e o layout geral, de forma a deixar o site mais agradável e organizado. Já o JavaScript teve a função de trazer interatividade, como animações, menus dinâmicos e botões que tornam a navegação mais fluida e moderna. A lógica de desenvolvimento seguiu uma ordem prática: primeiro foi criada a estrutura com HTML, depois o design foi aplicado com CSS e, por fim, a interatividade foi adicionada com JavaScript. Dessa forma, o site foi construído em camadas, unindo estrutura, estilo e funcionalidade para oferecer uma experiência completa ao usuário.
+ 
